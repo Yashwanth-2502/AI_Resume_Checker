@@ -1,5 +1,3 @@
-# ATS_Resume_Checker
-AI Resume Checker is a Python-based ATS analyzer that compares resumes with job descriptions, calculates compatibility scores, identifies missing skills, and provides improvement suggestions using TF-IDF and Machine Learning techniques.
 # AI Resume Checker
 
 An intelligent ATS (Applicant Tracking System) Resume Analyzer built with Python that evaluates resumes against job descriptions, calculates ATS compatibility scores, identifies missing skills, and provides actionable recommendations to improve job application success rates.
